@@ -1,5 +1,5 @@
 # 💫 About Me:
-Travels hut project.
+### I am a Mern stack developer. Now try to grow up my skills as a full stack developer.
 
 
 ## 🌐 Socials:
